@@ -1,0 +1,38 @@
+{
+    "phone1": {
+      "name": "Celular Teste 1",
+      "data": {
+        "brand": "MarcaX",
+        "model": "ModeloA"
+      }
+    },
+    "phone2": {
+      "name": "Celular Teste 2",
+      "data": {
+        "brand": "MarcaY",
+        "model": "ModeloB"
+      }
+    },
+    "phoneToUpdate": {
+      "name": "Celular Atualizável",
+      "data": {
+        "brand": "MarcaA",
+        "model": "Modelo1"
+      }
+    },
+    "updatedPhone": {
+      "name": "Celular Atualizado",
+      "data": {
+        "brand": "MarcaC",
+        "model": "ModeloNovo"
+      }
+    },
+    "phoneToDelete": {
+      "name": "Celular para Deletar",
+      "data": {
+        "brand": "MarcaDeletável",
+        "model": "ModeloDeletável"
+      }
+    }
+  }
+  
